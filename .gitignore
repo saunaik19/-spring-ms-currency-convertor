@@ -33,3 +33,11 @@ currency-conversion-service/*.ipr
 currency-eureka-naming-netflix-server/*.ipr
 currency-exchange-service/*.ipr
 limits-service/*.ipr
+
+currency-cloud-config-service/!.mvn/wrapper/maven-wrapper.jar
+currency-cloud-config-service-repo/!.mvn/wrapper/maven-wrapper.jar
+currency-conversion-service/!.mvn/wrapper/maven-wrapper.jar
+currency-eureka-naming-netflix-server/!.mvn/wrapper/maven-wrapper.jar
+currency-exchange-service/!.mvn/wrapper/maven-wrapper.jar
+limits-service/!.mvn/wrapper/maven-wrapper.jar
+
